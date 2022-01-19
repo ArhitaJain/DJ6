@@ -1,0 +1,46 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+.note
+{
+  font-size: 15px;
+  color: black;
+}
+
+#play{
+    width: 110px;
+    height:50px;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed{
+    float: left;
+}
+
+.dj{
+    width:200px;
+    border-radius: 100px;
+}
+
+.sv{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_vol{
+    float: right;
+}
+
+canvas{
+    border: 5px dashed white;
+    border-radius: 20px;
+    margin-top: 20px;
+}
